@@ -1,1 +1,9 @@
+button {
+transition: color 2s, background-color 2s, border-radius linear;
+border-radius: 5px;
+}
 
+button:hover {
+        color: ghostwhite;
+        transition-duration: 2s;
+}
